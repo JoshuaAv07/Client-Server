@@ -28,7 +28,14 @@ while True:
     _conn.close()
 
 
-    print(s.get_random_number())
+    #print(s.get_random_number())
+
+    val = data['value']
+    if val < 15:
+        print(val, "es menor a 15")
+    else: 
+        print(val, "es igual o mayor a 15")
+
     #print(s.get_temp_wmi())
     time.sleep(.5)
 
