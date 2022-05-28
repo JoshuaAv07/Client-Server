@@ -28,16 +28,16 @@
 <h4>Results</h4>
 
 <h5>Device POST</h5>
-<img src=""/>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postdevice.PNG?raw=true"/>
 
 <h5>Device GET</h5>
-<img src=""/>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/getdevice.PNG?raw=true"/>
 
 <h5>User POST</h5>
-<img src=""/>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/postuser.PNG?raw=true"/>
 
 <h5>Client Results</h5>
-<img src=""/>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/client.PNG?raw=true"/>
 
 <h5>Server Results</h5>
-<img src=""/>
+<img src="https://github.com/JoshuaAv07/Client-Server/blob/develop/images/server.PNG?raw=true"/>
