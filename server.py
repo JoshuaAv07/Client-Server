@@ -12,7 +12,6 @@ device = {
     "value": 67
 }
 
-
 #Save an user
 @app.route('/users', methods=['POST'])
 def save_users():
@@ -20,6 +19,7 @@ def save_users():
     print(user)
     return user
 
+#Get devices
 @app.route('/devices', methods=['GET'])
 def go_home():
     print(device)

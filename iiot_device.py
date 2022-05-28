@@ -19,7 +19,7 @@ class Sensor:
 
     #Simular la toma de algún valor de otro sensor
     def get_random_number(self):
-        return randint(0, 99)
+        return randint(0, 50)
 
 
     '''def get_temp_wmi(self):
