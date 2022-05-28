@@ -1,6 +1,6 @@
 <h1>I.4. Project Develop</h1>
 <h2>Universidad Tcnológica de Chihuahua BIS</h2>
-<h3><i>Joshua Alexis Avilés - TIDBIS51M - IoT Applications - 28/05/2022</i></h3>
+<h5><i>Joshua Alexis Avilés - TIDBIS51M - IoT Applications - 28/05/2022</i></h5>
 
 <h4>Description</h4>
 <p>This is is an application developed with Python and using Flask as framework, the project is basically a <b>client-server.</b> application.</p>
