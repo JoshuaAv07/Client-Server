@@ -1,19 +1,29 @@
 <h1>I.4. Project Develop</h1>
-<h2>Universidad Tcnológica de Chihuahua BIS</h2>
+<h2>Universidad Tenológica de Chihuahua BIS</h2>
 <h5><i>Joshua Alexis Avilés - TIDBIS51M - IoT Applications - 28/05/2022</i></h5>
 
 <h4>Description</h4>
 <p>This is is an application developed with Python and using Flask as framework, the project is basically a <b>client-server.</b> application.</p>
 
 <h4>Server</h4>
-- Declares device as a dictionary.
-- Establishes GET endpoint for devices.
-- Establishes POST endpoint for devices and users.
+<ol type=”A”>
+  <li>Declares device as a dictionary.</li>
+  <li>Establishes GET endpoint for devices.</li>
+  <li>Establishes POST endpoint for devices and users.</li>
+</ol>
 
 <h4>iiot_server</h4>
 <p>Basically gets random numbers with the randomint function, it gets numbers from 0 to 50</p>
 
 <h4>Client</h4>
+<ol type=”A”>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 - Imports the random numbers as s.getRandomNumber()
 - Declares a dictionary called data that will recieve the random numbers while(while loop) the server is opened.
 - Transforms data into json.
@@ -36,10 +46,4 @@
 <img src=""/>
 
 <h5>Server Results</h5>
-<img src=""/>
-
-<h5></h5>
-<></>
-<a></a>
-<p></p>
 <img src=""/>
