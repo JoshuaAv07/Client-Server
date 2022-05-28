@@ -6,20 +6,20 @@
 <p>This is is an application developed with Python and using Flask as framework, the project is basically a <b>client-server.</b> application.</p>
 
 <h4>Server</h4>
-*Declares device as a dictionary.
-*Establishes GET endpoint for devices.
-*Establishes POST endpoint for devices and users.
+- Declares device as a dictionary.
+- Establishes GET endpoint for devices.
+- Establishes POST endpoint for devices and users.
 
 <h4>iiot_server</h4>
 <p>Basically gets random numbers with the randomint function, it gets numbers from 0 to 50</p>
 
 <h4>Client</h4>
-*Imports the random numbers as s.getRandomNumber()
-*Declares a dictionary called data that will recieve the random numbers while(while loop) the server is opened.
-*Transforms data into json.
-*Uses jsoned data to work as a POST endpoint called devices.
-*Validates a value if the number is or not less than 15.
-*Uses time library to send repeat the while loop every half second.
+- Imports the random numbers as s.getRandomNumber()
+- Declares a dictionary called data that will recieve the random numbers while(while loop) the server is opened.
+- Transforms data into json.
+- Uses jsoned data to work as a POST endpoint called devices.
+- Validates a value if the number is or not less than 15.
+- Uses time library to send repeat the while loop every half second.
 
 <h4>Results</h4>
 
